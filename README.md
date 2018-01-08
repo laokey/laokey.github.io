@@ -3,4 +3,5 @@
 _ _ _
 * web开发    
 [简单的音乐播放器插件](https://github.com/laokey/musicPlayer)
-* gis开发
+* gis开发    
+[卷帘控件 Swipe for OpenLayers2](https://github.com/laokey/ol2_swipe)
