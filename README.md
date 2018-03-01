@@ -4,7 +4,8 @@ _ _ _
 [简单的音乐播放器插件](https://github.com/laokey/musicPlayer)    
 [3sNews网络爬虫](https://github.com/laokey/3s_spider)    
 [在线聊天室 websocket]()
-* gis开发    
+* gis开发  
+[GIS知识大全](https://github.com/sshuair/awesome-gis)
 [卷帘控件 Swipe for OpenLayers2](https://github.com/laokey/ol2_swipe)    
 [工具条封装 ](https://github.com/laokey/maptools)    
 [时间轴控件]()    
